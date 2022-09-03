@@ -11,7 +11,7 @@ TODO
 - [x] Typescript
 - [x] Composition API (setup script)
 - [ ] SCSS
-- [ ] Vue Router
+- [x] Vue Router
 - [ ] Pinia
 - [ ] ESLint / EditorConfig
 - [ ] i18n
