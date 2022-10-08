@@ -1,5 +1,5 @@
 <template>
-  <div>HomeView</div>
+  <RouterLink to="/login" class="test">Test</RouterLink>
 </template>
 
 <script setup lang="ts"></script>
