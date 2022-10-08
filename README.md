@@ -15,7 +15,7 @@ TODO
 - [ ] SCSS
 - [x] Vue Router
 - [ ] Pinia
-- [ ] ESLint / EditorConfig / Prettier
+- [x] ESLint / EditorConfig / Prettier / commitlint
 - [ ] i18n
 - [ ] VeeValidate (with Yup)
 - [ ] Service layer (with Axios)
