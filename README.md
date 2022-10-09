@@ -12,11 +12,10 @@ TODO
 - [x] Vite (with .env files)
 - [x] Typescript
 - [x] Composition API (setup script)
-- [ ] SCSS
+- [x] SCSS
 - [x] Vue Router
 - [ ] Pinia
 - [x] ESLint / EditorConfig / Prettier / commitlint
-- [x] Environements files
 - [ ] i18n
 - [ ] VeeValidate (with Yup)
 - [ ] Service layer (with Axios)
