@@ -14,7 +14,7 @@ TODO
 - [x] Composition API (setup script)
 - [x] SCSS
 - [x] Vue Router
-- [ ] Pinia
+- [x] Pinia
 - [x] ESLint / EditorConfig / Prettier / commitlint
 - [x] i18n
 - [ ] VeeValidate (with Yup)
