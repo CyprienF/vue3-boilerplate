@@ -16,7 +16,7 @@ TODO
 - [x] Vue Router
 - [ ] Pinia
 - [x] ESLint / EditorConfig / Prettier / commitlint
-- [ ] i18n
+- [x] i18n
 - [ ] VeeValidate (with Yup)
 - [ ] Service layer (with Axios)
 - [ ] Vitest

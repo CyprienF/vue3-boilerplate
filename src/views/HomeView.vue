@@ -1,5 +1,5 @@
 <template>
-  <RouterLink to="/login" class="test">Test</RouterLink>
+  {{ $t('HomeView.hello') }}
 </template>
 
 <script setup lang="ts"></script>
